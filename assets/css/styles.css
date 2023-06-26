@@ -45,7 +45,7 @@ nav{
 }
 .stay-txt{
     position: absolute;
-    top: 33px;
+    top: 35px;
     color:  #FFF;
     text-align: center;
     font-size: 14px;
@@ -58,7 +58,7 @@ nav{
 
 .socky-txt{
     position: absolute;
-    top: 53px;
+    top: 50px;
     color: #FFF;
     text-align: center;
     font-size: 20px;
@@ -87,7 +87,7 @@ a{
     justify-content: space-between;
 }
 
- .cap-cont{
+.cap-cont{
     width: 745px;
     height: 385px;
     display: inline-flex;

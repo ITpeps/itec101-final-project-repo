@@ -1,0 +1,12 @@
+<svg width="12" height="12" viewBox="0 0 12 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rating">
+<circle cx="6" cy="6" r="6" fill="white"/>
+<circle cx="6" cy="6" r="6" fill="url(#paint0_linear_405_5717)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_405_5717" x1="0" y1="0" x2="12.8982" y2="1.05884" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C1F651"/>
+<stop offset="1" stop-color="#F6EF51"/>
+</linearGradient>
+</defs>
+</svg>
